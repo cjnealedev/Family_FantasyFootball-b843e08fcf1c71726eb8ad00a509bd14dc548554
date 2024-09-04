@@ -88,6 +88,11 @@ export const homepageText = `
         <p style="font-weight: bold; color: #007BFF;">Grade: B (If everything clicks, this team will be a force, but there are a few too many “ifs” for comfort.)</p>
     </div>
 
+     </div>
+        <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <p><span style="font-weight: bold;"></span>In the end, each team has the potential to shine—or crash and burn spectacularly. The season ahead will reveal who’s a genius and who’s been hoodwinked by their own draft-day optimism. Until then, let the trash-talking commence! Don't forget to set your lineups for Thursday</p>
+    </div>
+
 `;
 
 /*   STEP 3   */
