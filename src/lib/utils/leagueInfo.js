@@ -12,7 +12,7 @@ export const homepageText = `
     <p>In a draft filled with surprises, gambles, and some downright head-scratchers, each team walked away with a roster they hope will carry them to fantasy glory. Here’s a closer look at how each team fared, complete with grades and a few chuckles along the way.</p>
 
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">1. Team amartin513</h2>
+        <h2 style="color: #444;">1. Purdy Good Odds</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Tyreek Hill</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> George Kittle</p>
         <p><span style="font-weight: bold;">Analysis:</span> Tyreek Hill is poised to "cheetah" his way through defenses, making this a solid WR1 pick. George Kittle is an elite tight end when healthy, but he’s as fragile as a porcelain doll. The RB depth? It’s more like a kiddie pool—shallow and concerning.</p>
@@ -28,15 +28,15 @@ export const homepageText = `
     </div>
 
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">3. Team nursenr</h2>
+        <h2 style="color: #444;">3. Auntie Ray</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> C.J. Stroud</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Cowboys Defense</p>
         <p><span style="font-weight: bold;">Analysis:</span> Drafting C.J. Stroud is like buying stock in a promising startup—high risk, high reward. But the Dallas Cowboys Defense in the 4th round? That’s like buying a snowblower in the middle of summer—there might be a better use for that pick. This team might strike gold with Stroud, but the Cowboys are more of a lump of coal.</p>
-        <p style="font-weight: bold; color: #007BFF;">Grade: B (This team could either be the steal of the draft or an elaborate fantasy experiment gone wrong.)</p>
+        <p style="font-weight: bold; color: #007BFF;">Grade: B- (This team could either be the steal of the draft or an elaborate fantasy experiment gone wrong.)</p>
     </div>
 
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">4. Team seejaykneel</h2>
+        <h2 style="color: #444;">4. You're the Sucker</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Ja’Marr Chase</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Raheem Mostert</p>
         <p><span style="font-weight: bold;">Analysis:</span> Ja’Marr Chase is a home run pick—consistent, explosive, and a potential league winner if he’s paid. Chas-ing money off the field does not score any points in our scoring format. Old man Mostert is a serious risk, there’s a chance this team will have to sit down and have a tough conversation with him at some point this season.</p>
@@ -44,7 +44,7 @@ export const homepageText = `
     </div>
 
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">5. Team popmartin615</h2>
+        <h2 style="color: #444;">5. Shots Fired</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Joe Burrow</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Ricky Pearsall</p>
         <p><span style="font-weight: bold;">Analysis:</span> Joe Burrow is the steady hand you want guiding your fantasy ship. However, the team owner should have known to stay away from Ricky Pearsall. We all know how dangerous San Francisco is, and the team should have taken that into consideration before taking him with their last pick. Still, the core of this team is solid, with Burrow leading the way.</p>
@@ -52,40 +52,40 @@ export const homepageText = `
     </div>
 
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">6. Team shanecmartin</h2>
+        <h2 style="color: #444;">6. Hall Passers</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Lamar Jackson</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Evan Engram</p>
         <p><span style="font-weight: bold;">Analysis:</span> Lamar Jackson is a high-upside QB who could single-handedly carry your team—if he stays healthy. Evan Engram could be a good pick considering that he was the second-best tight end last year. However, this team failed to consider the six years of mediocrity that plagued him previously. A regression to the mean may be in order.</p>
         <p style="font-weight: bold; color: #007BFF;">Grade: B (This team has sky-high potential, but it’s also one pulled hamstring away from mediocrity.)</p>
     </div>
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">7. Team BekahMcD</h2>
+        <h2 style="color: #444;">7. McMama</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Cameron Dicker</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Tua Tagovailoa</p>
         <p><span style="font-weight: bold;">Analysis:</span> A.J. Brown is a beast, and he’ll likely continue to eat up yardage like a buffet. Tua Tagovailoa, however, has the durability of a cell phone charger—always breaking when you need him the most. The rest of the roster has solid potential, but Chris Godwin could be a bust if he spends more time on the bench than the field. The biggest steal was grabbing Dicker the Kicker with her last pick!</p>
-        <p style="font-weight: bold; color: #007BFF;">Grade: B+ (If everyone stays healthy, this team will smash. But it’s a big “if.”)
+        <p style="font-weight: bold; color: #007BFF;">Grade: B- (If everyone stays healthy, this team will smash. But it’s a big “if.”)
 </p>
     </div>
         <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">8. Team Popsracer</h2>
+        <h2 style="color: #444;">8. HurtsSoGood</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Jalen Hurts</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Tony Pollard</p>
         <p><span style="font-weight: bold;">Analysis:</span> A huge improvement from last year’s draft disaster. Pollard, though, is a bit of a gamble. He could be a steal, or he could spend more time riding the pine. Hurts gives this team a high floor, but Pollard’s talent could determine the ceiling.</p>
         <p style="font-weight: bold; color: #007BFF;">Grade: A- (This team has the potential to dominate, but it might be a bit too dependent on Mahomes' magic.)</p>
     </div>
         <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">9. Team lneale</h2>
+        <h2 style="color: #444;">9. Don't Juke Aiyuck</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Bijan Robinson</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Brandon Aiyuck</p>
-        <p><span style="font-weight: bold;">Analysis:</span> Bijan Robinson could be the next big thing, or he could be the next big bust—only time will tell. Brandon Aiyuck’s situation is as murky as your friend’s Instagram filter. If he doesn’t return to form, this team might be in trouble. But if Robinson delivers, this could be a breakout season for Team lneale.</p>
+        <p><span style="font-weight: bold;">Analysis:</span> Bijan Robinson could be the next big thing, or he could be the next big bust—only time will tell. Brandon Aiyuck’s situation is as murky as your friend’s Instagram filter. If he doesn’t return to form, this team might be in trouble. But if Robinson delivers, this could be a breakout season for Don't Juke Aiyuck.</p>
         <p style="font-weight: bold; color: #007BFF;">Grade: B (Boom or bust, this team will either be a contender or a cautionary tale.)</p>
     </div>
         <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h2 style="color: #444;">10. Team JustMarkingTime</h2>
+        <h2 style="color: #444;">10. Cereal Killers</h2>
         <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Patrick Mahomes</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Kyle Pitts</p>
         <p><span style="font-weight: bold;">Analysis: </span>Patrick Mahomes is the fantasy football equivalent of a cheat code—unstoppable and reliable. Kyle Pitts, on the other hand, has been all potential and little production—a pick that might leave you frustrated if his QB can’t get him the ball. This team has strong points, but this team could be left in the Pitts questioning every decision they have ever made</p>
-        <p style="font-weight: bold; color: #007BFF;">Grade: B (If everything clicks, this team will be a force, but there are a few too many “ifs” for comfort.)</p>
+        <p style="font-weight: bold; color: #007BFF;">Grade: C+ (If everything clicks, this team will be a force, but there are a few too many “ifs” for comfort.)</p>
     </div>
 
      </div>
