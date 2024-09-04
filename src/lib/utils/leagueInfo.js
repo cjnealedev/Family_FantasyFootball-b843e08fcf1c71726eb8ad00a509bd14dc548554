@@ -53,9 +53,9 @@ export const homepageText = `
 
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
         <h2 style="color: #444;">6. Hall Passers</h2>
-        <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Lamar Jackson</p>
+        <p><span style="font-weight: bold; color: #555;">Best Pick:</span> Breece Hall</p>
         <p><span style="font-weight: bold; color: #555;">Worst Pick:</span> Evan Engram</p>
-        <p><span style="font-weight: bold;">Analysis:</span> Lamar Jackson is a high-upside QB who could single-handedly carry your team—if he stays healthy. Evan Engram could be a good pick considering that he was the second-best tight end last year. However, this team failed to consider the six years of mediocrity that plagued him previously. A regression to the mean may be in order.</p>
+        <p><span style="font-weight: bold;">Analysis:</span> Breece Hall is a high-upside RB who could single-handedly carry your team—if he stays healthy.... also conditional on his 50 year old QB staying healthy. Evan Engram could be a good pick considering that he was the second-best tight end last year. However, this team failed to consider the six years of mediocrity that plagued him previously. A regression to the mean may be in order.</p>
         <p style="font-weight: bold; color: #007BFF;">Grade: B (This team has sky-high potential, but it’s also one pulled hamstring away from mediocrity.)</p>
     </div>
     <div style="background-color: #fff; margin: 20px 0; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
